@@ -28,7 +28,7 @@ implementing trending methods like yield farming, new proof methods and etc.
 	</li>
 	<li>
 		<g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> 
-		Backend : PHP/Laravel/wordpress/woocommerce, Nodejs/Expressjs, Python, C#
+		Backend : PHP/Laravel/wordpress/woocommerce, Nodejs/Expressjs, Python/Django/Flask, C#, Ruby/Rails
 	</li>
 	<li>==========================================================</li>
 	<li>
